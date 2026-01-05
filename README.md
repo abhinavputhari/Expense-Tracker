@@ -1,11 +1,11 @@
-# 💰 Expense Tracker (Django)
+# Expense Tracker (Django)
 
 A simple and user-friendly **Expense Tracker web application** built using **Django**.  
 This application allows users to register, log in, add expenses, edit/delete them, filter by category, and view the total expense.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (Register / Login / Logout)
 - Add, edit, and delete expenses
@@ -16,7 +16,7 @@ This application allows users to register, log in, add expenses, edit/delete the
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Django
@@ -28,9 +28,9 @@ This application allows users to register, log in, add expenses, edit/delete the
 
 ---
 
-## ⚙️ How to Run the Server
+##  How to Run the Server
 
-### 1️⃣ Clone the Project (if using Git)
+Clone the Project (if using Git)
 ```bash
 git clone <repository-url>
 cd expense_tracker
